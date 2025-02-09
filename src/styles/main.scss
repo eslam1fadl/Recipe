@@ -1,0 +1,35 @@
+$light-gray: #F9FAFB;
+$light-beige: #fcd88f;
+#default-sidebar {
+  background-color: $light-gray !important;
+  font-family:cursive;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+}
+.learn-Cook {
+  background: linear-gradient(to right, #e9994f, #f64c4c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-family: "Pacifico", cursive;
+  font-size: 37px;
+  font-weight: 700;
+  line-height: 40px;
+}
+
+#root{
+  
+  
+  font-family: "Pacifico", cursive;
+
+}
+.inner{
+  font-family: "Pacifico", cursive;
+
+}
+.learn{
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(253,67,39,1) 63%, rgba(252,176,69,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

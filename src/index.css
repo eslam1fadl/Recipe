@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Pacifico&display=swap');
+@utility container {
+    margin-inline: auto;
+    padding-inline: 2rem;
+  }
+  *, ::after, ::before, ::backdrop, ::file-selector-button {
+    box-sizing: border-box ;
+}
+  #root{
+    padding:0 !important;
+  }
+  @theme{
+    --color-orange-primary:#f29724;
+    --color-grren-primary:#21BA75;
+
+  }
+  .learn{
+    
+  }
+
+.active{
+    background-color: black;
+   color: white;
+}
+.cat{
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  line-height: 24px !important;
+
+
+}
+
